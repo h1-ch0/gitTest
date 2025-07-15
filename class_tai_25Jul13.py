@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import openpyxl
 
-
+#글러먹었으니 이건 버려야 한다
 def getFilepathbyOS()
     if 
 
